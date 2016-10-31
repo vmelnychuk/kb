@@ -1,2 +1,2 @@
-# kb
-Personal Knowledge Base
+# Personal Knowledge Base
+This is personal knowledge base
