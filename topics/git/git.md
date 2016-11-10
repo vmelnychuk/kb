@@ -16,7 +16,7 @@ git remote -v # check for changes
 - Step 1: Fetch the changes (saving the target branch as FETCH_HEAD).
 `git fetch origin master`
 - Step 2: Checkout the source branch and merge in the changes from the target branch. Resolve conflicts.
-`git checkout feature/POS-713-tests-for-instant-credit-flow-are`
+`git checkout feature/branch-with-killer-feature`
 `git merge FETCH_HEAD`
 - Step 3: After the merge conflicts are resolved, stage the changes accordingly, commit the changes and push.
 `git commit`
