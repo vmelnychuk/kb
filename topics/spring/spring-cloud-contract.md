@@ -7,6 +7,12 @@ Contract definitions are used to produce following resources:
 - Messaging routes if you’re using one.
 - Acceptance tests (in JUnit or Spock)
 
+### Terms
+- _Producer_ publish API
+- _Consumer_ use API
+- _Contract_ agreement between producer and consumer
+- _Consumer Driver Contract_ consumer drives changes of API by producer
+
 
 ## Links
 - [Consumer-Driven Contracts Pattern](http://martinfowler.com/articles/consumerDrivenContracts.html)
