@@ -22,3 +22,9 @@ git remote -v # check for changes
 `git commit`
 `git push origin HEAD`
 - Step 4: Merge the updated pull request.
+
+### Push local branch to remote
+```shell
+git checkout -b <branch>
+git push -u origin <branch>
+```
