@@ -28,3 +28,13 @@ git remote -v # check for changes
 git checkout -b <branch>
 git push -u origin <branch>
 ```
+
+### Revert local changes
+```shell
+git checkout -- .
+```
+but not like this:
+```shell
+git stash
+git stash drop
+```
