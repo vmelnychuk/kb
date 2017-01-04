@@ -38,3 +38,9 @@ but not like this:
 git stash
 git stash drop
 ```
+
+### Get all branches nanes
+```shell
+git branch -a
+```
+
