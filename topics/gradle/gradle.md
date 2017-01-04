@@ -10,3 +10,8 @@
 ./gradlew -q projects
 ```
 
+### Run task from root project
+```shell
+gradle :services:webservice:build
+```
+
