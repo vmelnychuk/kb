@@ -44,3 +44,9 @@ git stash drop
 git branch -a
 ```
 
+### Undo deletion of file
+```shell
+git reset -- <file>
+git checkout -- <file>
+```
+
