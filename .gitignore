@@ -1,1 +1,6 @@
 # Files to ignore
+
+
+## Text Editor temp files
+*.swp
+
