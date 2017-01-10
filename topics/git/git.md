@@ -6,6 +6,8 @@ git remote -v # check you origin first, _tip:_ backup this value
 git remote set-url origin <ssh-git-url> # change url
 git remote -v # check for changes
 ```
+
+
 ### Add SSH-key to github
 - `xclip -sel clip < ~/.ssh/id_rsa.pub` # copy your ssh-key to clipboard
 - paste key to github
@@ -23,11 +25,13 @@ git remote -v # check for changes
 `git push origin HEAD`
 - Step 4: Merge the updated pull request.
 
+
 ### Push local branch to remote
 ```shell
 git checkout -b <branch>
 git push -u origin <branch>
 ```
+
 
 ### Revert local changes
 ```shell
@@ -39,14 +43,30 @@ git stash
 git stash drop
 ```
 
+
 ### Get all branches nanes
 ```shell
 git branch -a
 ```
 
+
 ### Undo deletion of file
 ```shell
 git reset -- <file>
 git checkout -- <file>
+```
+
+
+### Show files in log
+```shell
+git log --name-status
+git log --name-only
+git log --stat
+```
+
+
+### Checkout to some commit
+```shell
+git checkout <commit-id>
 ```
 
