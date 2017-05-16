@@ -70,3 +70,8 @@ git log --stat
 git checkout <commit-id>
 ```
 
+### Show graph
+```shell
+git log --graph --oneline --decorate --all
+```
+
