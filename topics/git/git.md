@@ -25,6 +25,8 @@ git remote -v # check for changes
 `git push origin HEAD`
 - Step 4: Merge the updated pull request.
 
+### Abort merge
+`git merge --abort`
 
 ### Push local branch to remote
 ```shell
