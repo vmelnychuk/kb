@@ -24,7 +24,7 @@
 ./gradlew clean build --continue --stacktrace --parallel
 ```
 
-## Build with ignoring cashed dependencies
+## Build with ignoring cached dependencies
 ```shell
 ./gradlew build --refresh-dependencies
 ```
