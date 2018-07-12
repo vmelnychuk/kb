@@ -1,26 +1,30 @@
-### Gradle Usage
+# Gradle Usage
 
 
-#### Run only one test with name 'TestClassName'
+## Run only one test with name 'TestClassName'
 ```shell
 ./gradlew -Dtest.single=TestClassName test
 ```
 
 
-### List projects in build
+## List projects in build
 ```shell
 ./gradlew -q projects
 ```
 
 
-### Run task from root project
+## Run task from root project
 ```shell
 ./gradlew :services:webservice:build
 ```
 
 
-### Examples of build commands
+## Examples of build commands
 ```shell
 ./gradlew clean build --continue --stacktrace --parallel
 ```
 
+## Build with ignoring cashed dependencies
+```shell
+./gradlew build --refresh-dependencies
+```
