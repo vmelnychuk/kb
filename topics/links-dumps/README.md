@@ -39,6 +39,11 @@
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
 
 
+## Text editing
+* [7 Habits For Effective Text Editing 2.0](https://www.youtube.com/watch?v=eX9m3g5J-XA)
+* [Антон Архипов — Эффективная работа с IDE(A)](https://www.youtube.com/watch?v=_rj7dx6c5R8)
+
+
 ## Git
 * [Frontend Masters Advanced Git - by Nina Zakharenko](https://github.com/nnja/advanced-git)
 
@@ -49,6 +54,7 @@
 
 ## API
 * [A Possible Composite Design Pattern for Immature REST APIs](https://www.duo.uio.no/bitstream/handle/10852/53094/thesis.pdf?sequence=1)
+
 
 ## GihtHub repos
 * [Packt Books Source Code](https://github.com/PacktPublishing)
