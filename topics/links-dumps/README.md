@@ -5,6 +5,11 @@
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/)
 * [99 Java Problems](http://tech.tonyballantyne.com/java/99-java-problems/)
 
+### Interview
+* [#interview-practice @ github](https://github.com/topics/interview-practice)
+* [#interview-questions @ github](https://github.com/topics/interview-questions)
+* [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#java)
+
 ## Go language
 * [Small project with go video tutorial](https://www.youtube.com/watch?v=lDdBWPsqpnw)
     * [Materials from lecture](https://drive.google.com/drive/folders/0B9fi75xNBmQ-NXl3Wm95bWVtUjA)
