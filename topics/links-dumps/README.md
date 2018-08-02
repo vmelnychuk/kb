@@ -3,6 +3,7 @@
 * [Ninety-Nine Problems in Java 8, Scala, and Haskell](https://github.com/shekhargulati/99-problems)
 * [Programming Tasks @ rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/)
+* [99 Java Problems](http://tech.tonyballantyne.com/java/99-java-problems/)
 
 ## Go language
 * [Small project with go video tutorial](https://www.youtube.com/watch?v=lDdBWPsqpnw)
