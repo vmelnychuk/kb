@@ -1,3 +1,9 @@
+## Tasks
+* [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+* [Ninety-Nine Problems in Java 8, Scala, and Haskell](https://github.com/shekhargulati/99-problems)
+* [Programming Tasks @ rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/)
+
 ## Go language
 * [Small project with go video tutorial](https://www.youtube.com/watch?v=lDdBWPsqpnw)
     * [Materials from lecture](https://drive.google.com/drive/folders/0B9fi75xNBmQ-NXl3Wm95bWVtUjA)
