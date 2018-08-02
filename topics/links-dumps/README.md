@@ -41,6 +41,8 @@
 * [Service locator pattern](https://en.wikipedia.org/wiki/Service_locator_pattern)
 * [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 
+## System design
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Tools
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
