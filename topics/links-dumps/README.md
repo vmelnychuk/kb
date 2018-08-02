@@ -5,10 +5,13 @@
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/)
 * [99 Java Problems](http://tech.tonyballantyne.com/java/99-java-problems/)
 
+
 ### Interview
 * [#interview-practice @ github](https://github.com/topics/interview-practice)
 * [#interview-questions @ github](https://github.com/topics/interview-questions)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#java)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Go language
 * [Small project with go video tutorial](https://www.youtube.com/watch?v=lDdBWPsqpnw)
@@ -45,6 +48,7 @@
 ## Design patterns
 * [Service locator pattern](https://en.wikipedia.org/wiki/Service_locator_pattern)
 * [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [python-patterns](https://github.com/faif/python-patterns)
 
 ## System design
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -72,3 +76,4 @@
 
 ## GihtHub repos
 * [Packt Books Source Code](https://github.com/PacktPublishing)
+* [Nikita Sobolev talks](https://github.com/sobolevn/my-talks)
