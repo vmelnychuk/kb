@@ -77,3 +77,16 @@
 ## GihtHub repos
 * [Packt Books Source Code](https://github.com/PacktPublishing)
 * [Nikita Sobolev talks](https://github.com/sobolevn/my-talks)
+* [Tirthal Patel](https://github.com/tirthalpatel?tab=repositories)
+
+
+## Bash
+* [Greg's Wiki](http://mywiki.wooledge.org/)
+* [BashGuide @ Greg's Wiki](http://mywiki.wooledge.org/BashGuide)
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html)
+* [From Power Up To Bash Prompt](http://users.cecs.anu.edu.au/~okeefe/p2b/power2bash/power2bash.html)
+
+
+## Wiremock
+* [Testing Front-end in isolation](http://mindengine.net/post/2016-10-08-testing-front-end-in-isolation/#.W5E7AJMzZ25)
+* [WireMock - A simple standalone HTTP server for service virtualization](http://tirthalpatel.blogspot.com/2017/04/wiremock-standalone-http-server-for-service-virtualization.html)
